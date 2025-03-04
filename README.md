@@ -2,7 +2,7 @@
 
 make for: Jhustyn Carvajal with love 
 
-## Up the project
+## Install dependencies
 
 ```
 npm i 

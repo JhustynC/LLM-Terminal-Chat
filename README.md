@@ -27,7 +27,7 @@ npm run dev
 
 For javascript
 ```
-npm i dev:js 
+npm run dev:js 
 ```
  
 ### That's it <3

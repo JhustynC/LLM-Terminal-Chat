@@ -1,6 +1,9 @@
 # LLM-Terminal-Chat
 
-make for: Jhustyn Carvajal with love 
+**made by**: Jhustyn Carvajal with love 
+
+Made with Node **v22.8.0** <br>
+Implementing *Clean Architecture*
 
 ## Install dependencies
 
@@ -14,7 +17,7 @@ npm i
 - Put the .env.template variables in the new .env 
 - You need a API_KEY for Google Gemini 
 
-## Up the project
+## Launch the project
 
 
 For Typescript:

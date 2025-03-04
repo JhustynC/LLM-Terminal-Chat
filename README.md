@@ -1,15 +1,18 @@
 # LLM-Terminal-Chat
 
+make for: Jhustyn Carvajal with love 
+
 ## Up the project
 
 ```
 npm i 
 ```
 
-## Setup de variables 
+## Setup env variables 
 
 - Create a .env in the root of project
-- Put the .env.template variables in the new .env
+- Put the .env.template variables in the new .env 
+- You need a API_KEY for Google Gemini 
 
 ## Up the project
 
@@ -23,5 +26,5 @@ For javascript
 ```
 npm i dev:js 
 ```
-
-### That's it 
+ 
+### That's it <3
